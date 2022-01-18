@@ -1,2 +1,2 @@
 # dio-bootcamp-gft-java
-Repositorio inical bootcamp
+Repositorio inicial bootcamp, para guardar o progresso
